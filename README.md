@@ -12,6 +12,16 @@ These subjects are:
 3. k Nearest Neighbours
 4. Preprocessing
 
+## Project Question
+
+- The project is to create a notebook exploring classification algorithms applied on the iris flower data set associated with Ronald A Fisher.5
+
+- In your notebook, you should first explain what supervised learning is and then explain what classification algorithms are.
+
+- Describe at least one common classification algorithm and implement it using the scikit-learn Python library.
+
+- Throughout your notebook, use appropriate plots, mathematical notation, and diagrams to explain the relevant concepts
+
 
 ## How to use Repository
 1. Install Anaconda (Link - https://www.anaconda.com/download)
@@ -21,3 +31,4 @@ These subjects are:
 3. Clone Repository - I think this is a good guide to clone repository (Link - https://github.com/MicrosoftDocs/azure-dev-docs/blob/main/articles/javascript/how-to/with-visual-studio-code/clone-github-repository.md)
 
 4. Open Repository in Visual Code studio.
+
