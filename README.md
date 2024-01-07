@@ -14,13 +14,15 @@ These subjects are:
 
 ## Project Question
 
-- The project is to create a notebook exploring classification algorithms applied on the iris flower data set associated with Ronald A Fisher.5
+- The project is to create a notebook exploring classification algorithms applied on the iris flower data set associated with Ronald A Fisher.
 
 - In your notebook, you should first explain what supervised learning is and then explain what classification algorithms are.
 
 - Describe at least one common classification algorithm and implement it using the scikit-learn Python library.
 
 - Throughout your notebook, use appropriate plots, mathematical notation, and diagrams to explain the relevant concepts
+
+- This is the link to my project code: https://github.com/KenLin765/machine-learning-and-statistics/blob/main/project.ipynb
 
 
 ## How to use Repository
