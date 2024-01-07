@@ -66,6 +66,7 @@ Rather, you should use the Newton’s method.  Start with an Square Roots via Ne
 
 5. Perform Principal Component Analysis on the iris data set, reducing the number of dimensions to two. Explain the purpose of the analysis and your results.
 
+Link to repository: https://github.com/KenLin765/machine-learning-and-statistics/blob/main/tasks.ipynb
 
 
 ## How to use Repository
