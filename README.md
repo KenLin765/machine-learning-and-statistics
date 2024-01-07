@@ -44,25 +44,21 @@ This repository contains materials related to the "Machine Learning and Statisti
 
 ## How to Use Repository
 
-1. **Installation:** Ensure you have the necessary dependencies by installing Anaconda ([Download Link](https://www.anaconda.com/download)) and Visual Studio Code with Python ([Download Link](https://code.visualstudio.com/Download)).
-2. **Clone Repository:** Follow this [guide](https://github.com/MicrosoftDocs/azure-dev-docs/blob/main/articles/javascript/how-to/with-visual-studio-code/clone-github-repository.md) to clone the repository.
-3. **Open Repository:** Launch Visual Studio Code and open the cloned repository.
-4. **Explore Completed Tasks:** Run `tasks.ipynb` to explore the completed tasks and results that they have given
-5. **Project Overview:** Run `project.ipynb` to view the project, including detailed explanations, visualisations, and outcomes.
+1. Install Anaconda ([Download Link](https://www.anaconda.com/download))
+2. Install Visual Studio Code, including Python ([Download Link](https://code.visualstudio.com/Download))
+3. Clone Repository ([Guide to Clone](https://github.com/MicrosoftDocs/azure-dev-docs/blob/main/articles/javascript/how-to/with-visual-studio-code/clone-github-repository.md))
+4. Open Repository in Visual Studio Code.
+5. Run `tasks.ipynb` to explore completed tasks.
+6. Run `project.ipynb` to view the project and its outputs.
 
 ## Requirements
 
-To ensure you have the required Python packages installed. You can install them using the provided `requirements.txt` file:
+To ensure you have the required Python packages installed, you can use the provided `requirements.txt` file:
 
-```bash
 pip install -r requirements.txt
 
-## Contributing
-
-Pull requests are welcome.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
