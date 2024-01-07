@@ -28,7 +28,33 @@ This repository contains materials related to the "Machine Learning and Statisti
 
 ### 2. Chi-Squared Test
 - Conduct a chi-squared test on a contingency table regarding preferences for coffee or tea and plain or chocolate biscuits.
-- [Table Visualization](#)
+
+<table>
+  <tr>
+    <th style="border: none;"></th>
+    <th style="border: none;"></th>
+    <th style="border-right;"><em>Biscuit</em></th>
+    <th style="border: none;"></th>
+  </tr>
+  <tr>
+    <th style="border: none;"></th>
+    <th style="border: none;"></th>
+    <td style="border-right;"><strong>Chocolate</strong></td>
+    <td><strong>Plain</strong></td>
+  </tr>
+  <tr>
+    <td><em>Drink</em></td>
+    <td>Coffee</td>
+    <td>43</td>
+    <td>57</td>
+  </tr>
+  <tr>
+    <th style="border: none;"></th>
+    <td>Tea</td>
+    <td>56</td>
+    <td>45</td>
+  </tr>
+</table>
 
 ### 3. T-Test on Penguins Data
 - Perform a t-test on the famous penguins dataset to investigate the body mass difference between male and female gentoo penguins.
