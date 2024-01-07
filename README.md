@@ -52,7 +52,7 @@ This repository contains materials related to the "Machine Learning and Statisti
 
 ## Requirements
 
-Ensure you have the required Python packages installed. You can install them using the provided `requirements.txt` file:
+To ensure you have the required Python packages installed. You can install them using the provided `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
